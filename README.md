@@ -52,7 +52,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/) (easy)
 * [Convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (easy)
 * [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/) (easy)
-* [Merge two binary trees]((https://leetcode.com/problems/merge-two-binary-trees/) (easy)
+* [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/) (easy)
 * [Symmetric tree](https://leetcode.com/problems/symmetric-tree/) (easy)
 * [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (medium)
 * [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (medium)
