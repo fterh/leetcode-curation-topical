@@ -76,12 +76,14 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Pacific atlantic water flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) (medium)
 * [Word search](https://leetcode.com/problems/word-search/) (medium)
 ## Recursion/Backtracking
+* [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
 * [Permutations](https://leetcode.com/problems/permutations/) (medium)
 * [Permutations II (permutations with repetitions)](https://leetcode.com/problems/permutations-ii/) (medium)
 * [Subsets](https://leetcode.com/problems/subsets/) (medium)
 * [Remove invalid parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) (hard)
 ## Dynamic Programming
 * [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (easy)
+* [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
 * [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/) (medium)
 * [Unique paths](https://leetcode.com/problems/unique-paths/) (medium)
