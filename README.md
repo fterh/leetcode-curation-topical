@@ -36,8 +36,8 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) (medium)
 * [Insert interval](https://leetcode.com/problems/insert-interval/) (hard)
 ### Heaps/Priority Queues
-* [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) (hard)
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
+* [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) (hard)
 ## Linked Lists/Deques
 * [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy)
 * [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) (easy)
@@ -85,10 +85,12 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 ## Dynamic Programming
 * [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (easy)
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
+* [Jump game](https://leetcode.com/problems/jump-game/) (medium)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
 * [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/) (medium)
 * [Unique paths](https://leetcode.com/problems/unique-paths/) (medium)
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
+* [Jump game II](https://leetcode.com/problems/jump-game-ii) (hard)
 ## Design & Implementation
 * [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (easy)
 * [Min stack](https://leetcode.com/problems/min-stack/) (easy)
