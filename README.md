@@ -12,6 +12,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
 * [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
 * [3sum](https://leetcode.com/problems/3sum/) (medium)
+* [Decode string](https://leetcode.com/problems/decode-string/) (medium)
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
 * [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium)
@@ -94,6 +95,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 ## Design & Implementation
 * [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (easy)
 * [Min stack](https://leetcode.com/problems/min-stack/) (easy)
+* [Binary search tree iterator](https://leetcode.com/problems/binary-search-tree-iterator/) (medium) **(implementation should be lazy)**
 * [Flatten nested list iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) (medium) **(implementation should be lazy)**
 * [Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (medium)
 * [LRU cache](https://leetcode.com/problems/lru-cache) (medium)
