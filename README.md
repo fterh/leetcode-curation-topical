@@ -66,6 +66,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium)
 * [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree/) (medium)
 * [Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (medium)
+* [Unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees/) (medium)
 * [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/) (medium)
 ## Graphs
 * [Flood fill](https://leetcode.com/problems/flood-fill/) (easy)
