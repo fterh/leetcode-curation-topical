@@ -22,6 +22,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Sort colors](https://leetcode.com/problems/sort-colors/) (medium)
 * [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) (medium)
 * [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) (hard)
+* [Course schedule III](https://leetcode.com/problems/course-schedule-iii/) (hard)
 * [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (hard)
 * [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) (hard)
 * [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) (hard)
