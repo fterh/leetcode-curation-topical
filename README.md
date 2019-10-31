@@ -79,6 +79,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Course schedule II](https://leetcode.com/problems/course-schedule-ii/) (medium)
 * [Graph valid tree](https://leetcode.com/problems/graph-valid-tree/) (medium)
 * [Pacific atlantic water flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) (medium)
+* [Redundant connection](https://leetcode.com/problems/redundant-connection) (medium)
 * [Word search](https://leetcode.com/problems/word-search/) (medium)
 ## Recursion/Backtracking
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
