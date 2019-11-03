@@ -17,6 +17,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
 * [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium)
 * [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (medium)
+* [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) (medium)
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
 * [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
 * [Sort colors](https://leetcode.com/problems/sort-colors/) (medium)
@@ -28,12 +29,13 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) (hard)
 * [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) (hard)
 * [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/) (hard)
-### Sliding Window
+### Sliding Window/Two Pointer
+* [Container with most water](https://leetcode.com/problems/container-with-most-water/) (medium)
+* [Longest mountain in array](https://leetcode.com/problems/longest-mountain-in-array/) (medium)
 * [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
+* [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium)
 * [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium)
 * [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/) (hard)
-### Two Pointer
-* [Container with most water](https://leetcode.com/problems/container-with-most-water/) (medium)
 ### Intervals
 * [Merge intervals](https://leetcode.com/problems/merge-intervals) (medium)
 * [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) (medium)
@@ -69,6 +71,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium)
 * [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree/) (medium)
 * [Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (medium)
+* [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (medium)
 * [Unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees/) (medium)
 * [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/) (medium)
 ## Graphs
