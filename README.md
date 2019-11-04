@@ -13,6 +13,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
 * [3sum](https://leetcode.com/problems/3sum/) (medium)
 * [Decode string](https://leetcode.com/problems/decode-string/) (medium)
+* [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium)
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
 * [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium)
