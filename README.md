@@ -42,6 +42,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) (medium)
 * [Insert interval](https://leetcode.com/problems/insert-interval/) (hard)
 ### Heaps/Priority Queues
+* [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium)
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
 * [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) (hard)
 ## Linked Lists/Deques
