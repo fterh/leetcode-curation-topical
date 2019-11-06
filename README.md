@@ -77,6 +77,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (medium)
 * [Unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees/) (medium)
 * [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/) (medium)
+* [Binary tree maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (hard)
 ## Graphs
 * [Flood fill](https://leetcode.com/problems/flood-fill/) (easy)
 * [Accounts merge](https://leetcode.com/problems/accounts-merge) (medium)
