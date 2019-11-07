@@ -23,6 +23,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
 * [Sort colors](https://leetcode.com/problems/sort-colors/) (medium)
 * [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) (medium)
+* [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (hard)
 * [Count of range sum](https://leetcode.com/problems/count-of-range-sum/) (hard)
 * [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) (hard)
 * [Course schedule III](https://leetcode.com/problems/course-schedule-iii/) (hard)
@@ -103,6 +104,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
 * [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/) (medium)
 * [Unique paths](https://leetcode.com/problems/unique-paths/) (medium)
+* [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (hard)
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
 * [Jump game II](https://leetcode.com/problems/jump-game-ii) (hard)
 ## Design & Implementation
