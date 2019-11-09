@@ -68,6 +68,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (medium)
 * [Binary tree zigzag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (medium)
 * [Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/) (medium)
+* [Construct binary tree from inorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (medium)
 * [Construct binary tree from preorder and inorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) (medium)
 * [Construct binary tree from preorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) (medium)
 * [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (medium)
