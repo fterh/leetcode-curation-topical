@@ -108,6 +108,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (hard)
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
 * [Jump game II](https://leetcode.com/problems/jump-game-ii) (hard)
+* [Edit distance](https://leetcode.com/problems/edit-distance/) (hard)
 ## Design & Implementation
 * [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (easy)
 * [Min stack](https://leetcode.com/problems/min-stack/) (easy)
