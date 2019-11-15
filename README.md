@@ -55,6 +55,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (easy)
 * [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy)
 * [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (medium)
+* [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/) (medium)
 * [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) (medium)
 * [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
 * [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) (hard)
