@@ -112,6 +112,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
 * [Jump game II](https://leetcode.com/problems/jump-game-ii) (hard)
 * [Edit distance](https://leetcode.com/problems/edit-distance/) (hard)
+* [Wildcard matching](https://leetcode.com/problems/wildcard-matching/) (hard)
 ## Design & Implementation
 * [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (easy)
 * [Min stack](https://leetcode.com/problems/min-stack/) (easy)
