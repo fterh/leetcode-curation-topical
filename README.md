@@ -30,6 +30,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (hard)
 * [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) (hard)
 * [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) (hard)
+* [Split array largest sum](https://leetcode.com/problems/split-array-largest-sum/) (hard)
 * [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/) (hard)
 ### Sliding Window/Two Pointer
 * [Container with most water](https://leetcode.com/problems/container-with-most-water/) (medium)
