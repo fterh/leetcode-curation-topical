@@ -98,6 +98,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Word ladder](https://leetcode.com/problems/word-ladder/) (medium)
 * [Word search](https://leetcode.com/problems/word-search/) (medium)
 ## Recursion/Backtracking
+* [Combination Sum](https://leetcode.com/problems/combination-sum/) (medium)
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
 * [Permutations](https://leetcode.com/problems/permutations/) (medium)
 * [Permutations II (permutations with repetitions)](https://leetcode.com/problems/permutations-ii/) (medium)
