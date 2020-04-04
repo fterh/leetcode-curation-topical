@@ -8,6 +8,8 @@ Bad questions are those that are extremely difficult for the sake of being so, a
 
 Essentially, this is a curation of questions that I personally use to prepare for technical interviews.
 
+Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to interview once and apply for multiple top tech companies!
+
 ## Arrays/Strings
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
 * [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
