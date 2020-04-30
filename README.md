@@ -12,6 +12,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 
 ## Arrays/Strings
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
+* [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy)
 * [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
 * [3sum](https://leetcode.com/problems/3sum/) (medium)
 * [Decode string](https://leetcode.com/problems/decode-string/) (medium)
@@ -20,7 +21,6 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
 * [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium)
-* [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (medium)
 * [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) (medium)
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
 * [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
@@ -56,10 +56,10 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 ## Linked Lists/Deques
 * [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy)
 * [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) (easy)
+* [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy)
 * [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy)
 * [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (easy)
 * [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy)
-* [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (medium)
 * [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/) (medium)
 * [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) (medium)
 * [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
