@@ -105,6 +105,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 * [Subsets](https://leetcode.com/problems/subsets/) (medium)
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
 * [Remove invalid parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) (hard)
+* [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (medium)
 ## Dynamic Programming
 * [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (easy)
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
