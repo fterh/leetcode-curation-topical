@@ -126,3 +126,10 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Flatten nested list iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) (medium) **(implementation should be lazy)**
 * [Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (medium)
 * [LRU cache](https://leetcode.com/problems/lru-cache) (medium)
+## Greedy
+* [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) (easy)
+* [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) (easy)
+* [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/) (medium)
+* [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) (medium)
+* [Couples holding hands](https://leetcode.com/problems/couples-holding-hands/) (hard)
+* [Candy](https://leetcode.com/problems/candy/) (hard) 
