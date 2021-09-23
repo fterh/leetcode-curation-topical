@@ -127,9 +127,9 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (medium)
 * [LRU cache](https://leetcode.com/problems/lru-cache) (medium)
 ## Greedy
-* [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) (easy)
 * [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) (easy)
-* [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/) (medium)
+* [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) (easy)
 * [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) (medium)
-* [Couples holding hands](https://leetcode.com/problems/couples-holding-hands/) (hard)
+* [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/) (medium)
 * [Candy](https://leetcode.com/problems/candy/) (hard) 
+* [Couples holding hands](https://leetcode.com/problems/couples-holding-hands/) (hard)
