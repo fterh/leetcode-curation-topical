@@ -21,6 +21,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
 * [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium)
+* [Minimum number of steps to make two strings anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) (medium)
 * [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) (medium)
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
 * [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
