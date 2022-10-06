@@ -44,6 +44,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium)
 * [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium)
 * [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/) (hard)
+* [Maximum number of visible points](https://leetcode.com/problems/maximum-number-of-visible-points/) (hard)
 ### Intervals
 * [Merge intervals](https://leetcode.com/problems/merge-intervals) (medium)
 * [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) (medium)
