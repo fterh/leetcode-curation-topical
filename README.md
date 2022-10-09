@@ -43,6 +43,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
 * [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium)
 * [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium)
+* [Maximum number of visible points](https://leetcode.com/problems/maximum-number-of-visible-points/) (hard)
 * [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/) (hard)
 ### Intervals
 * [Merge intervals](https://leetcode.com/problems/merge-intervals) (medium)
