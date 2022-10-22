@@ -134,3 +134,9 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/) (medium)
 * [Candy](https://leetcode.com/problems/candy/) (hard) 
 * [Couples holding hands](https://leetcode.com/problems/couples-holding-hands/) (hard)
+## Binary Search
+* [Median of Two Sorted Arrays] (https://leetcode.com/problems/median-of-two-sorted-arrays/) (easy)
+* [Search Insert Position] (https://leetcode.com/problems/search-insert-position/) (easy)
+* [Find First and Last Position of Element in Sorted Array] (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (medium)
+* [Kth Smallest Element in a Sorted Matrix] (https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) (medium)
+* [Single Element in a Sorted Array] (https://leetcode.com/problems/single-element-in-a-sorted-array/) (medium)
