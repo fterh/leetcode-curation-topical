@@ -120,6 +120,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Jump game II](https://leetcode.com/problems/jump-game-ii) (hard)
 * [Edit distance](https://leetcode.com/problems/edit-distance/) (hard)
 * [Wildcard matching](https://leetcode.com/problems/wildcard-matching/) (hard)
+* [Integer Break](https://leetcode.com/problems/integer-break/)
 ## Design & Implementation
 * [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (easy)
 * [Min stack](https://leetcode.com/problems/min-stack/) (easy)
